@@ -6,3 +6,4 @@ My favorite CodeSchool Path is JavaScript.
 * HTML
 * SQL
 * NoSQL
+* Killing history using git rebase
